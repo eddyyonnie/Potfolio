@@ -1,0 +1,39 @@
+@media screen and (min-width:480px){
+  h1{
+    color:purple;
+    color:black;
+  }
+}
+
+#jonjo{
+  margin-left: 10em;
+}
+img{
+  border-radius:2.6em;
+  height:15em;
+  float:left;
+  margin-left:70px;
+}
+h1{
+  margin-left:14em;
+}
+body{
+  background-image:url("https://cache.desktopnexus.com/thumbseg/2459/2459361-bigthumbnail.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+p ,h1 ,h2 , li{
+  font-size:27px;
+  float:left;
+  clear:left;
+}
+h2{
+  color:blue;
+  text-decoration:underline;
+}
+li{
+  color:red;
+}
+#fefe{
+  margin-left:30em;
+}
