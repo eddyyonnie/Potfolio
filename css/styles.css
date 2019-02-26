@@ -14,29 +14,48 @@ table{
  margin-bottom: 0px;
  box-shadow: 5px 5px 5px grey;
 
+<<<<<<< HEAD
+=======
+#jonjo{
+  margin-left: 0;
+
+>>>>>>> master
 }
 
 
 img{
   border-radius:2.6em;
   height:15em;
+<<<<<<< HEAD
+=======
+  float:left;
+>>>>>>> master
 }
 body{
   background-image:url("https://cache.desktopnexus.com/thumbseg/2459/2459361-bigthumbnail.jpg");
   background-size: cover;
   background-repeat: no-repeat;
+  margin-left: 20em;
+  margin-right: 20em;
 }
 p ,h1 ,h2 , li{
   font-size:27px;
 
 }
 h2{
+<<<<<<< HEAD
   color:red;
 
+=======
+  clear:left;
+  color:black;
+  text-decoration:underline;
+>>>>>>> master
 }
 li{
   color:red;
 }
+<<<<<<< HEAD
 #raf{
   display:flex;
   flex-direction: row;
@@ -73,3 +92,5 @@ nav>ul>li>a:hover{
   margin-right: 30%;
   font-family: 'Courgette', cursive;
 }
+=======
+>>>>>>> master
