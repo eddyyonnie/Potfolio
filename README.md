@@ -12,7 +12,11 @@
 * HTML
 * CSS
 ## Link to live site on the output of the project
+<<<<<<< HEAD
 https://eddyyonnie.github.io/Potfolio
+=======
+https://eddyyonnie.github.io/portfolio
+>>>>>>> 537ec1cbb4e454c9d29b80e2819f8105dd3abd3b
 #### Contacts for further informing on the test system:
 * phone-number: 0790538630
 * email: eddyyonnie@gmail.com
