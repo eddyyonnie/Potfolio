@@ -2,7 +2,7 @@
 #### The best way to find out about me.
 #### By Eddy Yonnie
 ## Description
-* A website specially built for the well being of notification on the softwear developer, who is me.In this website,i included a few or more about myself and added a few of my previously done independent projects.
+* A website specially built for the well being of notification on the softwear developer, who is me.In this website,i included a few or more about myself and added a few of my previously done independent projects.As for the contacts i added icons of social media to ndicate how the user may contact which also serves as a link to the respective media locations.
 ## Setup/Installation Requirements
 * PC
 * atom
