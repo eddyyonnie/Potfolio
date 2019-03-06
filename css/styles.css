@@ -20,10 +20,8 @@ table{
 img{
   border-radius:2.6em;
   height:15em;
-<<<<<<< HEAD
-=======
   float:left;
->>>>>>> master
+
 }
 body{
   background-image:url("https://cache.desktopnexus.com/thumbseg/2459/2459361-bigthumbnail.jpg");
@@ -37,19 +35,19 @@ p ,h1 ,h2 , li{
 
 }
 h2{
-<<<<<<< HEAD
+
   color:red;
 
-=======
+
   clear:left;
   color:black;
   text-decoration:underline;
->>>>>>> master
+
 }
 li{
   color:red;
 }
-<<<<<<< HEAD
+
 #raf{
   display:flex;
   flex-direction: row;
@@ -86,5 +84,3 @@ nav>ul>li>a:hover{
   margin-right: 30%;
   font-family: 'Courgette', cursive;
 }
-=======
->>>>>>> master
