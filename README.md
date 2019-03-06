@@ -1,8 +1,8 @@
 # Portfolio
-#### The best way to find out about me
-#### By **{Eddy Yonnie}**
+#### The best way to find out about me.
+#### By Eddy Yonnie
 ## Description
-* A website specially built for the well being of notification on the softwear developer, who is me.
+* A website specially built for the well being of notification on the softwear developer, who is me.In this website,i included a few or more about myself and added a few of my previously done independent projects.
 ## Setup/Installation Requirements
 * PC
 * atom
